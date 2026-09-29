@@ -1,0 +1,2 @@
+Flask>=3.0,<4
+miniupnpc>=2.2.6
